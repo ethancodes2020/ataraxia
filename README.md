@@ -4,5 +4,5 @@
 
 
 ## Introduction
-Stoic GNU/Linux, is a linux distro, forked from Ataraxia Linux, that is made to be as systemd free as possible, while being lightweight, fast, simple, and secure. We aim to make sure PID 1 stays simple, and secure. This has all the good stuff that Ataraxia Linux has, and we aim to add what Ataraxia Linux is missing, and needs. Have an look around!
+Stoic GNU/Linux, is a linux distro, forked from Ataraxia Linux, that is made to be as systemd free as possible, while being lightweight, fast, simple, and secure. We aim to make sure PID 1 stays simple, and secure. This has all the good stuff that Ataraxia Linux has, and we aim to add what Ataraxia Linux is missing, and needs. Have an look around! We consider this distro, "the distro for stoners", because it focuses on privacy, nobody spies here.
 
