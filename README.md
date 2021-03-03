@@ -6,7 +6,7 @@ Stoic GNU/Linux, is a linux distro, forked from Ataraxia Linux, that is made to 
 
 
 
-
+peakboo :)
 
 
 ![image](https://user-images.githubusercontent.com/25110919/109828605-c9ace300-7c0a-11eb-945a-865205a8f812.png)
