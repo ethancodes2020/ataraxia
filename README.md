@@ -1,4 +1,4 @@
-# Welcome to Stoner GNU/Linux!
+# Welcome to StonerOS!
 
 ![image](https://user-images.githubusercontent.com/25110919/110029792-e62c4680-7d02-11eb-8a5d-29c5415152b6.png)
 
