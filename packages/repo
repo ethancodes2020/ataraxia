@@ -8,6 +8,30 @@
 		"homepage": "http://tools.suckless.org/9base",
 		"category": "utils"
 	},
+	{	"name": "openrc",
+		"version": "0.42.1",
+		"summary": "Dependency based init system",
+		"maintainer": "ethancodes2020 <ethanatchley2006@gmail.com>",
+		"download": "https://github.com/OpenRC/openrc/archive/0.42.1.tar.gz",
+		"homepage": "https://github.com/OpenRC/openrc",
+		"category":  "base"
+	},
+        {       "name": "eudev",
+                "version": "3.2.9",
+                "summary": "The userspace dev tools (udev) forked by Gentoo",
+                "maintainer": "ethancodes2020 <ethanatchley2006@gmail.com>",
+                "download": "https://dev.gentoo.org/~blueness/eudev/eudev-3.2.9.tar.gz",
+                "homepage": "http://www.gentoo.org/proj/en/eudev",
+                "category": "hardware"
+        },
+        {       "name": "elogind",
+                "version": "243.7",
+                "summary": "The systemd project's logind, extracted to a standalone package",
+                "maintainer": "ethancodes2020 <ethanatchley2006@gmail.com>",
+                "download": "https://github.com/elogind/elogind/archive/v243.7.tar.gz",
+                "homepage": "https://github.com/elogind/elogind",
+                "category": "admin"
+        },
 	{
 		"name": "a2ps",
 		"version": "4.14",
@@ -2842,15 +2866,6 @@
 		"download": "https://download.gnome.org/sources/gnome-klotski/3.38/gnome-klotski-3.38.2.tar.xz",
 		"homepage": "https://wiki.gnome.org/Apps/Klotski",
 		"category": "games"
-	},
-	{
-		"name": "gnome-logs",
-		"version": "3.36.0",
-		"summary": "A log viewer for the systemd journal",
-		"maintainer": "protonesso <nagakamira@gmail.com>",
-		"download": "https://download.gnome.org/sources/gnome-logs/3.36/gnome-logs-3.36.0.tar.xz",
-		"homepage": "https://wiki.gnome.org/Apps/Logs",
-		"category": "gnome"
 	},
 	{
 		"name": "gnome-mahjongg",
@@ -8793,15 +8808,6 @@
 		"category": "python"
 	},
 	{
-		"name": "python-systemd",
-		"version": "234",
-		"summary": "Python module wrapping systemd functionality",
-		"maintainer": "protonesso <nagakamira@gmail.com>",
-		"download": "https://github.com/systemd/python-systemd/archive/v234.tar.gz",
-		"homepage": "https://github.com/systemd/python-systemd/",
-		"category": "python"
-	},
-	{
 		"name": "python-tinycss2",
 		"version": "1.1.0",
 		"summary": "Low-level CSS parser for Python",
@@ -9916,15 +9922,6 @@
 		"download": "https://github.com/OpenPrinting/system-config-printer/releases/download/1.15.13/system-config-printer-1.15.13.tar.xz",
 		"homepage": "https://github.com/OpenPrinting/system-config-printer",
 		"category": "admin"
-	},
-	{
-		"name": "systemd",
-		"version": "247.3",
-		"summary": "System and service manager",
-		"maintainer": "protonesso <nagakamira@gmail.com>",
-		"download": "https://github.com/systemd/systemd-stable/archive/v247.3.tar.gz daemon-reload.trigger journald-catalog.trigger systemd-binfmt.trigger systemd-sysctl.trigger systemd-sysusers.trigger systemd-tmpfiles.trigger udev-hwdb.trigger udev-rules.trigger",
-		"homepage": "https://www.github.com/systemd/systemd",
-		"category": "base"
 	},
 	{
 		"name": "taglib",
